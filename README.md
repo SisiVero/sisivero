@@ -1,4 +1,4 @@
-![Header](./png/chioma-header.png)
+![Header](./png/header.png)
 
   <a href="https://susanveronicaportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:28px;">
