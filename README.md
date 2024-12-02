@@ -11,7 +11,7 @@
 
 I’m a Frontend Engineer who loves bringing ideas to life on the web. With skills in HTML, CSS, JavaScript, React, TypeScript, and Jest, I enjoy creating clean, user-friendly interfaces that make apps enjoyable to use. I focus on making sure everything works smoothly, looks great, and is easy to maintain. I’m always up for a challenge, whether it’s solving tough problems or learning something new, and I get a real kick out of building innovative solutions that make digital experiences better.
 
-<details>
+<details style="align:center">
   <summary><h2> <img style="align:center" src="https://github.com/SisiVero/SisiVero/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
   <p>
     <i>You can reach out to me via</i>
